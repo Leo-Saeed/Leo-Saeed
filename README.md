@@ -80,7 +80,7 @@ Tools:
 ## 🧩 Fun Zone
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXAzdHFsd3U3c2lwcnpwMHRzcTQ2cXk5OTNpOXg5dXZhdDh0MGZqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zxCJgzj7qGSH6QZpVo/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg5dndiaXFveG5haWdyYm9rZzY3cWNpdzRpeDljc2R1ZnF2NHkyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif" width="500"/>
 </p>
 
 > “Without data, you're just another person with an opinion.” 😄
