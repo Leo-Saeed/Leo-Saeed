@@ -56,7 +56,7 @@ Tools:
 ## 📊 What Drives Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Saeed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBnNnlwY3N4NDFwaGdna2dranlmZHpxanFjY2R1Mmx6Y2Rjc3ZqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" />
 </p>
 
 ✔️ Messy data → Structured systems
