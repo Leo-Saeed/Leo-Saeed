@@ -90,10 +90,10 @@ Tools:
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/said-mhamdi-6785a820a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:said.m'hamdi@esprit.tn">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
